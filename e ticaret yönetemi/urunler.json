@@ -1,0 +1,30 @@
+[
+    {
+        "urun_kodu": "URN-0001",
+        "urun_adi": "42 inç Ekran",
+        "kategori": "Elektronik / Televizyon",
+        "seo_etiketleri": [
+            "42 inç",
+            "ekran",
+            "televizyon"
+        ],
+        "satis_aciklamasi": "42 inç boyutundaki bu ekran, yüksek görüntü kalitesi ve geniş izleme deneyimi sunmak üzere tasarlanmıştır.",
+        "urun_aciklamasi": "42",
+        "fiyat": 2.0,
+        "stok": 2
+    },
+    {
+        "urun_kodu": "URN-0002",
+        "urun_adi": "Kişisel Bilgisayar (PC)",
+        "kategori": "Elektronik / Bilgisayar",
+        "seo_etiketleri": [
+            "pc",
+            "masaüstü bilgisayar",
+            "bilgisayar"
+        ],
+        "satis_aciklamasi": "Günlük işleriniz, oyun deneyiminiz veya profesyonel çalışmalarınız için tasarlanmış, performans odaklı kişisel bilgisayar.",
+        "urun_aciklamasi": "pc",
+        "fiyat": 43.0,
+        "stok": 2
+    }
+]
