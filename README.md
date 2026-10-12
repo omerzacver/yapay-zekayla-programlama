@@ -1,1 +1,0 @@
-# yapay-zekayla-programlama
