@@ -1,0 +1,22 @@
+KOD PERFORMANS RAPORU
+========================================
+Proje: Muzik Veri Setinde Tekrar Analizi
+Veri sayisi: 5000
+
+ESKI KOD SURELERI
+1. olcum: 1.152380 saniye
+2. olcum: 1.118594 saniye
+3. olcum: 1.075138 saniye
+Eski kod ortalama suresi: 1.115371 saniye
+
+OPTIMIZE KOD SURELERI
+1. olcum: 0.001492 saniye
+2. olcum: 0.001449 saniye
+3. olcum: 0.001437 saniye
+Optimize kod ortalama suresi: 0.001459 saniye
+Hizlanma: 764.21 kat
+Dogruluk testi: BASARILI
+
+KISA YORUM:
+Optimize fonksiyon, ortalama olcumde daha hizli calismistir. Set kullanimi tekrar aramalarini azaltmistir.
+Her iki fonksiyonun sonucunun ayni oldugu assert testleriyle kontrol edilmistir.
